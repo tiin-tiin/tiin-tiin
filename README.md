@@ -6,7 +6,7 @@
 
 <h3 align = "center">
   <samp>
-    i like to make cool things
+    i like to make stuff
   </samp>
 </h3>
 
